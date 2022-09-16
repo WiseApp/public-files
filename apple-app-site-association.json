@@ -8,7 +8,7 @@
                 "meetingNumber": "???????????",
                 "meetingPassword": "??????"
             },
-            "comment": "Matches any URL with a path that starts with /lens/ and that has two query items with name 'meetingNumber' and 'meetingPassword'"
+            "comment": "Test: Matches any URL with a path that starts with /lens/ and that has two query items with name 'meetingNumber' and 'meetingPassword'"
         }]
     }]
   }
