@@ -1,14 +1,13 @@
 {
-    "applinks": {
-        "details": [{
-            "appIDs": ["Z67C2X5D6C.wise.lens"],
-            "components": [{
-                "?": {
-                    "meetingNumber": "*",
-                    "meetingPassword": "*"
-                },
-                "comment": "Matches any URL with query"
-            }]
-        }]
-    }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "Z67C2X5D6C.wise.lens",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
 }
