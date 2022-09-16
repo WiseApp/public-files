@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [{
+        "appIDs": ["Z67C2X5D6C.wise.lens"],
+        "components": [{
+            "/": "/lens/join",
+            "?": {
+                "meetingNumber": "???????????",
+                "meetingPassword": "??????"
+            },
+            "comment": "Matches any URL with a path that starts with /lens/ and that has two query items with name 'meetingNumber' and 'meetingPassword'"
+        }]
+    }]
+  }
+}
