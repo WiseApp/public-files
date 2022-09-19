@@ -4,8 +4,11 @@
     "details": [
       {
         "appID": "Z67C2X5D6C.wise.lens",
-        "paths": [
-          "*"
+        "components": [
+          {
+            "/": "/lens/join/*",
+            "comment": "Matches any URL with a path that starts with /lens/join."
+          }
         ]
       }
     ]
