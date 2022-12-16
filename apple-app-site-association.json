@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "Z67C2X5D6C.wise.lens",
+        "appID": "Z67C2X5D6C.wise.lens.staging",
         "components": [
           {
             "/": "/lens/join/*",
